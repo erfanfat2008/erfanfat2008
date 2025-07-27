@@ -1,6 +1,6 @@
 # Hi i'm erfan 👋
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am Erfan and I design websites as a freelancer with html, cs, js. I am currently learning PHP and Photoshop. I also know Python in a basic way. Don't brag about yourself, and I am doing a good job😉
 
 1. python
 2. html
