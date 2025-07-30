@@ -80,9 +80,9 @@
 
 ## 📫 ارتباط با من
 
-- ایمیل: youremail@example.com  
-- تلگرام: [@yourusername](https://t.me/yourusername)  
-- لینکدین (اگر داری): [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- ایمیل: erfanfatalizadeh1403@gmail.com
+- تلگرام: [@erfanfat2024](https://t.me/erfanfat2024)  
+
 
 ---
 
