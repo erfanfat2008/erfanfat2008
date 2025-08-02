@@ -1,6 +1,4 @@
 
-
-
 ---
 
 <!-- Greeting Banner -->
@@ -55,10 +53,6 @@
 
 ---
 
-### 🔹 [اپلیکیشن To-Do List](https://github.com/ErfanFatalizadeh/todo-app)
-📝 اپلیکیشن مدیریت وظایف روزانه  
-📦 ذخیره وظایف با localStorage  
-💡 طراحی ساده و سبک
 
 ---
 
@@ -71,9 +65,9 @@
 ## 📊 آمار گیت‌هاب من
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErfanFatalizadeh&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=erfanfat2008&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanFatalizadeh&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanfat2008&layout=compact&theme=radical" />
 </p>
 
 ---
